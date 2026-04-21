@@ -1,0 +1,14 @@
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Aula2\Aula2\bin\Debug\net10.0\Aula2.exe
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Aula2\Aula2\bin\Debug\net10.0\Aula2.deps.json
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Aula2\Aula2\bin\Debug\net10.0\Aula2.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Aula2\Aula2\bin\Debug\net10.0\Aula2.dll
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Aula2\Aula2\bin\Debug\net10.0\Aula2.pdb
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Aula2\Aula2\obj\Debug\net10.0\Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Aula2\Aula2\obj\Debug\net10.0\Aula2.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Aula2\Aula2\obj\Debug\net10.0\Aula2.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Aula2\Aula2\obj\Debug\net10.0\Aula2.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Aula2\Aula2\obj\Debug\net10.0\Aula2.dll
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Aula2\Aula2\obj\Debug\net10.0\refint\Aula2.dll
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Aula2\Aula2\obj\Debug\net10.0\Aula2.pdb
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Aula2\Aula2\obj\Debug\net10.0\Aula2.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Aula2\Aula2\obj\Debug\net10.0\ref\Aula2.dll

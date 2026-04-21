@@ -1,0 +1,14 @@
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Exercicios_fáceis\Ex02\Ex02\obj\Debug\net10.0\Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Exercicios_fáceis\Ex02\Ex02\obj\Debug\net10.0\Ex02.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Exercicios_fáceis\Ex02\Ex02\obj\Debug\net10.0\Ex02.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Exercicios_fáceis\Ex02\Ex02\obj\Debug\net10.0\Ex02.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Exercicios_fáceis\Ex02\Ex02\bin\Debug\net10.0\Ex02.exe
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Exercicios_fáceis\Ex02\Ex02\bin\Debug\net10.0\Ex02.deps.json
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Exercicios_fáceis\Ex02\Ex02\bin\Debug\net10.0\Ex02.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Exercicios_fáceis\Ex02\Ex02\bin\Debug\net10.0\Ex02.dll
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Exercicios_fáceis\Ex02\Ex02\bin\Debug\net10.0\Ex02.pdb
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Exercicios_fáceis\Ex02\Ex02\obj\Debug\net10.0\Ex02.dll
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Exercicios_fáceis\Ex02\Ex02\obj\Debug\net10.0\refint\Ex02.dll
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Exercicios_fáceis\Ex02\Ex02\obj\Debug\net10.0\Ex02.pdb
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Exercicios_fáceis\Ex02\Ex02\obj\Debug\net10.0\Ex02.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c#\Exercicios_fáceis\Ex02\Ex02\obj\Debug\net10.0\ref\Ex02.dll
