@@ -15,7 +15,9 @@ namespace Exercicio06
 
         public void ExibirInformacao()
         {
-            string Status = Emprestado ? "Emprestado" : "Disponivel";
+            string Status = Emprestado 
+                ? "Emprestado" 
+                : "Disponivel";
             Console.WriteLine($"Título do livro: {Titulo}");
             Console.WriteLine($"Autor: {Autor}");
             Console.WriteLine($"Ano da publicação: {AnoPublicacao}");

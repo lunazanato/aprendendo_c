@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c#\\Exercicios\\Exercicio07\\Exercicio07\\Exercicio07.csproj",
+      "projectUniqueName": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c\\Exercicios\\Exercicio07\\Exercicio07\\Exercicio07.csproj",
       "projectName": "Exercicio07",
-      "projectPath": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c#\\Exercicios\\Exercicio07\\Exercicio07\\Exercicio07.csproj",
+      "projectPath": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c\\Exercicios\\Exercicio07\\Exercicio07\\Exercicio07.csproj",
       "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c#\\Exercicios\\Exercicio07\\Exercicio07\\obj\\",
+      "outputPath": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c\\Exercicios\\Exercicio07\\Exercicio07\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

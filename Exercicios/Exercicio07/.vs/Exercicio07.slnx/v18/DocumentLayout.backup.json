@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c#\\Exercicios\\Exercicio07\\",
+  "WorkspaceRootPath": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c\\Exercicios\\Exercicio07\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D404FE57-9937-46B6-BFF8-5768C5606826}|Exercicio07\\Exercicio07.csproj|c:\\users\\pichau\\onedrive\\documentos\\aprendendo_c#\\exercicios\\exercicio07\\exercicio07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D404FE57-9937-46B6-BFF8-5768C5606826}|Exercicio07\\Exercicio07.csproj|solutionrelative:exercicio07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC393D73-58FD-2071-AB1C-BD54785BD119}|Exercicio07\\Exercicio07.csproj|c:\\users\\pichau\\onedrive\\documentos\\aprendendo_c\\exercicios\\exercicio07\\exercicio07\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC393D73-58FD-2071-AB1C-BD54785BD119}|Exercicio07\\Exercicio07.csproj|solutionrelative:exercicio07\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D404FE57-9937-46B6-BFF8-5768C5606826}|Exercicio07\\Exercicio07.csproj|c:\\users\\pichau\\onedrive\\documentos\\aprendendo_c#\\exercicios\\exercicio07\\exercicio07\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D404FE57-9937-46B6-BFF8-5768C5606826}|Exercicio07\\Exercicio07.csproj|solutionrelative:exercicio07\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC393D73-58FD-2071-AB1C-BD54785BD119}|Exercicio07\\Exercicio07.csproj|c:\\users\\pichau\\onedrive\\documentos\\aprendendo_c\\exercicios\\exercicio07\\exercicio07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC393D73-58FD-2071-AB1C-BD54785BD119}|Exercicio07\\Exercicio07.csproj|solutionrelative:exercicio07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Funcionario.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c#\\Exercicios\\Exercicio07\\Exercicio07\\Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c\\Exercicios\\Exercicio07\\Exercicio07\\Funcionario.cs",
               "RelativeDocumentMoniker": "Exercicio07\\Funcionario.cs",
-              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c#\\Exercicios\\Exercicio07\\Exercicio07\\Funcionario.cs*",
-              "RelativeToolTip": "Exercicio07\\Funcionario.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c\\Exercicios\\Exercicio07\\Exercicio07\\Funcionario.cs",
+              "RelativeToolTip": "Exercicio07\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T17:29:36.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c#\\Exercicios\\Exercicio07\\Exercicio07\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c\\Exercicios\\Exercicio07\\Exercicio07\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio07\\Program.cs",
-              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c#\\Exercicios\\Exercicio07\\Exercicio07\\Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c\\Exercicios\\Exercicio07\\Exercicio07\\Program.cs",
               "RelativeToolTip": "Exercicio07\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T17:28:57.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T17:28:57.687Z"
             }
           ]
         }
