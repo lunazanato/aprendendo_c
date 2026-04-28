@@ -1,0 +1,15 @@
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios\Exercicio11\Exercicio11\bin\Debug\net10.0\Exercicio11.exe
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios\Exercicio11\Exercicio11\bin\Debug\net10.0\Exercicio11.deps.json
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios\Exercicio11\Exercicio11\bin\Debug\net10.0\Exercicio11.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios\Exercicio11\Exercicio11\bin\Debug\net10.0\Exercicio11.dll
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios\Exercicio11\Exercicio11\bin\Debug\net10.0\Exercicio11.pdb
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios\Exercicio11\Exercicio11\obj\Debug\net10.0\Exercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios\Exercicio11\Exercicio11\obj\Debug\net10.0\Exercicio11.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios\Exercicio11\Exercicio11\obj\Debug\net10.0\Exercicio11.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios\Exercicio11\Exercicio11\obj\Debug\net10.0\Exercicio11.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios\Exercicio11\Exercicio11\obj\Debug\net10.0\Exercicio11.sourcelink.json
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios\Exercicio11\Exercicio11\obj\Debug\net10.0\Exercicio11.dll
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios\Exercicio11\Exercicio11\obj\Debug\net10.0\refint\Exercicio11.dll
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios\Exercicio11\Exercicio11\obj\Debug\net10.0\Exercicio11.pdb
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios\Exercicio11\Exercicio11\obj\Debug\net10.0\Exercicio11.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios\Exercicio11\Exercicio11\obj\Debug\net10.0\ref\Exercicio11.dll
