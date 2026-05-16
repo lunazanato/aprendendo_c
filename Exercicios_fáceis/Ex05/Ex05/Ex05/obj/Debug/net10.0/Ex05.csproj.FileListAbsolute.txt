@@ -1,0 +1,15 @@
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex05\Ex05\Ex05\bin\Debug\net10.0\Ex05.exe
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex05\Ex05\Ex05\bin\Debug\net10.0\Ex05.deps.json
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex05\Ex05\Ex05\bin\Debug\net10.0\Ex05.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex05\Ex05\Ex05\bin\Debug\net10.0\Ex05.dll
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex05\Ex05\Ex05\bin\Debug\net10.0\Ex05.pdb
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex05\Ex05\Ex05\obj\Debug\net10.0\Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex05\Ex05\Ex05\obj\Debug\net10.0\Ex05.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex05\Ex05\Ex05\obj\Debug\net10.0\Ex05.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex05\Ex05\Ex05\obj\Debug\net10.0\Ex05.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex05\Ex05\Ex05\obj\Debug\net10.0\Ex05.sourcelink.json
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex05\Ex05\Ex05\obj\Debug\net10.0\Ex05.dll
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex05\Ex05\Ex05\obj\Debug\net10.0\refint\Ex05.dll
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex05\Ex05\Ex05\obj\Debug\net10.0\Ex05.pdb
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex05\Ex05\Ex05\obj\Debug\net10.0\Ex05.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex05\Ex05\Ex05\obj\Debug\net10.0\ref\Ex05.dll

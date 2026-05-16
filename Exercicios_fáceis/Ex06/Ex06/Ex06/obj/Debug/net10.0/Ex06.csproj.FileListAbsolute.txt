@@ -1,0 +1,15 @@
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex06\Ex06\Ex06\bin\Debug\net10.0\Ex06.exe
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex06\Ex06\Ex06\bin\Debug\net10.0\Ex06.deps.json
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex06\Ex06\Ex06\bin\Debug\net10.0\Ex06.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex06\Ex06\Ex06\bin\Debug\net10.0\Ex06.dll
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex06\Ex06\Ex06\bin\Debug\net10.0\Ex06.pdb
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex06\Ex06\Ex06\obj\Debug\net10.0\Ex06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex06\Ex06\Ex06\obj\Debug\net10.0\Ex06.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex06\Ex06\Ex06\obj\Debug\net10.0\Ex06.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex06\Ex06\Ex06\obj\Debug\net10.0\Ex06.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex06\Ex06\Ex06\obj\Debug\net10.0\Ex06.sourcelink.json
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex06\Ex06\Ex06\obj\Debug\net10.0\Ex06.dll
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex06\Ex06\Ex06\obj\Debug\net10.0\refint\Ex06.dll
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex06\Ex06\Ex06\obj\Debug\net10.0\Ex06.pdb
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex06\Ex06\Ex06\obj\Debug\net10.0\Ex06.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Documentos\aprendendo_c\Exercicios_fáceis\Ex06\Ex06\Ex06\obj\Debug\net10.0\ref\Ex06.dll

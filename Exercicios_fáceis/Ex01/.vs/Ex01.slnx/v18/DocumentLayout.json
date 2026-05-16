@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c#\\Exercicios_f\u00E1ceis\\Ex01\\",
+  "WorkspaceRootPath": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c\\Exercicios_f\u00E1ceis\\Ex01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33283669-712B-4871-A7DE-BA3EC127282A}|Ex01\\Ex01.csproj|c:\\users\\pichau\\onedrive\\documentos\\aprendendo_c#\\exercicios_f\u00E1ceis\\ex01\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33283669-712B-4871-A7DE-BA3EC127282A}|Ex01\\Ex01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28B84C18-65CF-5481-7B6B-6EEDF6C8F307}|Ex01\\Ex01.csproj|c:\\users\\pichau\\onedrive\\documentos\\aprendendo_c\\exercicios_f\u00E1ceis\\ex01\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B84C18-65CF-5481-7B6B-6EEDF6C8F307}|Ex01\\Ex01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c#\\Exercicios_f\u00E1ceis\\Ex01\\Ex01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c\\Exercicios_f\u00E1ceis\\Ex01\\Ex01\\Program.cs",
               "RelativeDocumentMoniker": "Ex01\\Program.cs",
-              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c#\\Exercicios_f\u00E1ceis\\Ex01\\Ex01\\Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documentos\\aprendendo_c\\Exercicios_f\u00E1ceis\\Ex01\\Ex01\\Program.cs",
               "RelativeToolTip": "Ex01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
